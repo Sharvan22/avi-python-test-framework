@@ -1,0 +1,7 @@
+api:
+  base_url: https://semantic-brandea-banao-dc049ed0.koyeb.app
+  timeout: 10
+
+auth:
+  username: sharvan_test_user
+  password: StrongPassword123

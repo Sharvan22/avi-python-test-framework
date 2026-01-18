@@ -1,0 +1,8 @@
+testcases:
+  - name: Disable_Backend_Virtual_Service
+    target_vs_name: backend-vs-t1r_1000-1
+    stages:
+      - prefetch
+      - prevalidate
+      - disable
+      - postvalidate
